@@ -1,0 +1,152 @@
+.p-20 {
+    padding: 20px;
+}
+
+.m-10 {
+    margin: 20px;
+}
+
+.mleft-40 {
+    margin-left: 40px;
+}
+
+.mtop-100 {
+    margin-top: 100px;
+}
+
+.mbottom-1 {
+    margin-bottom: 1.5em;
+}
+
+.twidth-200 {
+    width: 200px;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: baseline;
+}
+
+.floatleft {
+    float: left;
+}
+
+.floatright {
+    float: right;
+}
+
+.fsize-48 {
+    font-size: 48px;
+    list-style-type: none;
+}
+
+.jc-between {
+    justify-content: space-between;
+}
+
+.jc-right {
+    justify-content: right;
+}
+
+.bgcolor {
+    background-color: antiquewhite;
+}
+
+.align-itemscenter {
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo {
+    margin-right: 2em;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 2em;
+    padding: 10px;
+
+    color: #ad0000;
+}
+
+.naw-item {
+    padding: 15px 20px;
+
+    color: #fff;
+
+    background: rgb(141, 88, 88);
+    cursor: pointer;
+}
+
+.nawend-item {
+    cursor: pointer;
+    color: #03025e;
+    list-style-type: none;
+}
+
+.naw-wrap {
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+.btn {
+    width: 200px;
+    padding: 10px;
+
+    font-weight: bold;
+
+    background: rgb(158, 99, 99);
+    color: #fff;
+
+    border: none;
+    border-radius: 10px;
+
+    cursor: pointer;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    text-align: left;
+}
+.productsAndContactText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pics {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    background-color: antiquewhite;
+}
+
+.form {
+    box-sizing: border-box;
+    width: 200px;
+    padding: 30px 80px;
+}
+
+.form-input input,
+.form-input textarea {
+    box-sizing: border-box;
+    height: 50px;
+    padding: 10px 20px;
+
+    border: none;
+}
+
+#messageforcompany {
+    height: 200px;
+    resize: none;
+}
